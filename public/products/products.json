@@ -1,0 +1,147 @@
+[ 
+    {
+      "id": "1",
+      "name": "Men's Perfume 1",
+      "price": "50",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Men's Perfume 1",
+      "volume": ["50", "100"],
+      "category": "Men's Perfumes"
+    },
+    {
+      "id": "2",
+      "name": "Men's Perfume 2",
+      "price": "55",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Men's Perfume 2",
+      "volume": ["50", "100"],
+      "category": "Men's Perfumes"
+    },
+    {
+      "id": "3",
+      "name": "Men's Perfume 3",
+      "price": "60",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Men's Perfume 3",
+      "volume": ["50", "100"],
+      "category": "Men's Perfumes"
+    },
+    {
+      "id": "4",
+      "name": "Men's Perfume 4",
+      "price": "65",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Men's Perfume 4",
+      "volume": ["50", "100"],
+      "category": "Men's Perfumes"
+    },
+    {
+      "id": "5",
+      "name": "Men's Perfume 5",
+      "price": "70",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Men's Perfume 5",
+      "volume": ["50", "100"],
+      "category": "Men's Perfumes"
+    },
+    {
+      "id": "6",
+      "name": "Men's Perfume 6",
+      "price": "75",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Men's Perfume 6",
+      "volume": ["50", "100"],
+      "category": "Men's Perfumes"
+    },
+    {
+      "id": "7",
+      "name": "Men's Perfume 7",
+      "price": "80",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Men's Perfume 7",
+      "volume": ["50", "100"],
+      "category": "Men's Perfumes"
+    },
+    {
+      "id": "8",
+      "name": "Men's Perfume 8",
+      "price": "85",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Men's Perfume 8",
+      "volume": ["50", "100"],
+      "category": "Men's Perfumes"
+    },
+    {
+      "id": "9",
+      "name": "Women's Perfume 1",
+      "price": "50",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Women's Perfume 1",
+      "volume": ["50", "100"],
+      "category": "Women's Perfumes"
+    },
+    {
+      "id": "10",
+      "name": "Women's Perfume 2",
+      "price": "55",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Women's Perfume 2",
+      "volume": ["50", "100"],
+      "category": "Women's Perfumes"
+    },
+    {
+      "id": "11",
+      "name": "Women's Perfume 3",
+      "price": "60",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Women's Perfume 3",
+      "volume": ["50", "100"],
+      "category": "Women's Perfumes"
+    },
+    {
+      "id": "12",
+      "name": "Women's Perfume 4",
+      "price": "65",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Women's Perfume 4",
+      "volume": ["50", "100"],
+      "category": "Women's Perfumes"
+    },
+    {
+      "id": "13",
+      "name": "Women's Perfume 5",
+      "price": "70",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Women's Perfume 5",
+      "volume": ["50", "100"],
+      "category": "Women's Perfumes"
+    },
+    {
+      "id": "14",
+      "name": "Women's Perfume 6",
+      "price": "75",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Women's Perfume 6",
+      "volume": ["50", "100"],
+      "category": "Women's Perfumes"
+    },
+    {
+      "id": "15",
+      "name": "Women's Perfume 7",
+      "price": "80",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Women's Perfume 7",
+      "volume": ["50", "100"],
+      "category": "Women's Perfumes"
+    },
+    {
+      "id": "16",
+      "name": "Women's Perfume 8",
+      "price": "85",
+      "image": "/parfumproduct.jpg",
+      "description": "This is a description for Women's Perfume 8",
+      "volume": ["50", "100"],
+      "category": "Women's Perfumes"
+    }
+  ]
+  
